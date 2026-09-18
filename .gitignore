@@ -1,0 +1,9 @@
+# Obsidian device/UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+# Obsidian Git conflict output
+conflict-files-obsidian-git.md
+# OS metadata
+Thumbs.db
+.DS_Store
