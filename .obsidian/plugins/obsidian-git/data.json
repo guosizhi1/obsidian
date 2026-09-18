@@ -6,7 +6,7 @@
   "autoPullInterval": 10,
   "autoPullOnBoot": true,
   "autoCommitOnlyStaged": false,
-  "disablePush": false,
+  "disablePush": true,
   "pullBeforePush": true,
   "differentIntervalCommitAndPush": false,
   "autoBackupAfterFileChange": false,
