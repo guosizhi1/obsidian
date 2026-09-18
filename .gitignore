@@ -7,3 +7,4 @@ conflict-files-obsidian-git.md
 # OS metadata
 Thumbs.db
 .DS_Store
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
